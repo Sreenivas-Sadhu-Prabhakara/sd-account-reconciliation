@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-account-reconciliation
+description: "BIAN Service Domain: Account Reconciliation (Process pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Operations"
+  bian/asset-type: "Account Reconciliation"
+  bian/control-record: "Account Reconciliation Procedure"
